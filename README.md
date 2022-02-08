@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xShashank7
+- 👋 Hi, I’m Shashank
 - 👀 I’m interested in Web3 Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Solidity, Blockchain 
 - 📫 Reach me at shashank.srinivasg@gmail.com
